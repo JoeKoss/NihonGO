@@ -1,6 +1,6 @@
 # NihonGO
 A study tool for Japanese Hiragana and Katakana. Designed to be used with pen and paper. 
-Utilizes Java Swing for the GUI. 
+Utilizes Java Swing for the GUI. Images taken from Wikipedia.
 
 How to use:
 
