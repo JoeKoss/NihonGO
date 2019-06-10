@@ -14,4 +14,4 @@ Click the "Show Answer" button to reveal the character.
 
 Record whether you got it correct or incorrect.
 
-Re-quiz yourself on the characters you got wrong upon reaching the end.
+Re-quiz yourself on the characters you got wrong upon reaching the end or return to the quiz menu to take another quiz.
