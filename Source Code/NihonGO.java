@@ -302,7 +302,6 @@ public class NihonGO extends Initializer implements ActionListener
       //creates a home button to allow the user to select another quiz
       retryWrongBtn = createNewButton("Retry Wrong", ynBtnFont, ynWidth, ynHeight);
       
-      //could initialize two separate panels instead of overwriting th
       if(numWrong != 0)
       {
          homeBtnPanel = new JPanel(new GridLayout(homeRows, homeCols, horiGap, resultsVertGap));
